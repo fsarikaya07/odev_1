@@ -16,5 +16,3 @@ if (işlem == 1) {
 } else {
     alert("yanlış işlem yaptınız...")
 }
-
-  
