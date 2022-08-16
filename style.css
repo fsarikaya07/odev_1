@@ -1,0 +1,12 @@
+.nav-bar{
+    width: 100vw;
+    height: 50px;
+}
+.main-bar{
+    width: 100vw;
+    height: calc(100vh - 100px);
+}
+.bottom-bar{
+    width: 100vw;
+    height: 50px;
+}
